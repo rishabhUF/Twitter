@@ -1,5 +1,5 @@
-defmodule Project4.Supervisor do
-  alias Project4.UserAccountStructure
+defmodule Twitter.Supervisor do
+  alias Twitter.UserAccountStructure
   use Supervisor
 
   def start_link do
