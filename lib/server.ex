@@ -1,5 +1,5 @@
-defmodule Project4.Server do
-  alias Project4.UserAccountStructure
+defmodule Twitter.Server do
+  alias Twitter.UserAccountStructure
   use GenServer
 
   # API
